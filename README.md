@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fouzan25
 - 👀 I’m interested in gamming and coding
-- 🌱 I’m currently learning react reacy native node js flutter
+- 🌱 I’m currently working with  react node js flutter
 - 📫 How to reach me mohkvfouzan@gmail.com
 
 <!---
